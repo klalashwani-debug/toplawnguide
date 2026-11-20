@@ -262,6 +262,7 @@
         Wikimedia Commons
       </p>
     </div>
+    <script id="_waur2f">var _wau = _wau || []; _wau.push(["small", "5bzl8yrxxe", "r2f"]);</script><script async src="//waust.at/s.js"></script>
   </footer>
 
   <script>window.hallmarkSlots = (m) => { for (const [k, v] of Object.entries(m)) { const s = document.querySelector(`[data-slot="${k}"]`); if (!s) continue; const im = new Image(); im.src = typeof v === 'string' ? v : v.src; im.alt = (typeof v === 'object' && v.alt) || s.dataset.alt || ''; s.querySelectorAll(':scope > img').forEach((o) => o.remove()); s.prepend(im); } };
